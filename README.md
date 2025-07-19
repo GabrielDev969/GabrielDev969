@@ -31,11 +31,8 @@ Aqui estão as tecnologias e ferramentas que domino:
 
 ## 📚 Meus Projetos
 Explore meus repositórios para ver exemplos do meu trabalho! Aqui estão alguns destaques:
-- **[Nome do Projeto 1]**: [Breve descrição do projeto, o que ele faz e as tecnologias usadas].
-- **[Nome do Projeto 2]**: [Breve descrição do projeto, o que ele faz e as tecnologias usadas].
-- **[Nome do Projeto 3]**: [Breve descrição do projeto, o que ele faz e as tecnologias usadas].
-
-*Observação: Substitua os placeholders acima pelos seus projetos reais. Se precisar de ajuda para descrevê-los, me avise!*
+- **[BookOwl](https://github.com/GabrielDev969/BookOwl)**: Sistema para gerenciamento de livros e bibliotecas.
+- **[ForumMissionario](https://github.com/GabrielDev969/ForumMissionario)**: Forum para trazer informações sobre missionarios de igrejas.
 
 ## 🌱 O que estou aprendendo?
 Estou sempre buscando evoluir! Atualmente, estou explorando:
